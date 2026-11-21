@@ -1,0 +1,9 @@
+{
+  "name": "rtl-mod",
+  "version": "0.1.0",
+  "description": "Right-to-left for Persian, Arabic and Hebrew lines that open with an English word, in the Code tab of the Claude desktop app",
+  "license": "MIT",
+  "author": {
+    "name": "Meshkati"
+  }
+}

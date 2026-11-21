@@ -1,0 +1,13 @@
+{
+  "name": "claude-desktop-rtl-mod",
+  "owner": {
+    "name": "Meshkati"
+  },
+  "plugins": [
+    {
+      "name": "rtl-mod",
+      "source": "./"
+    }
+  ],
+  "description": "RTL fix for the Claude desktop app"
+}
